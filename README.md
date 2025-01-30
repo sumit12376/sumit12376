@@ -1,6 +1,10 @@
 # 💫 About Me:
-**<h2 style="color: #4CAF50;">Sumit Vikram Singh</h2>**<br>
-B.Tech in Computer Science & Engineering<br><br>
+<div style="text-align: center; font-family: Arial, sans-serif;">
+  <h1 style="color: #4CAF50; font-size: 36px;">Sumit Vikram Singh</h1>
+  <h2 style="font-size: 28px; color: #333;">B.Tech in Computer Science & Engineering</h2>
+  <p style="font-size: 18px; color: #555;">Passionate Full Stack Developer | Coding Enthusiast | Technology Aficionado</p>
+</div>
+
 
 🤝 **Looking to Collaborate On**<br>
 Innovative frontend projects leveraging React, Redux, and Tailwind CSS, as well as scalable backend solutions with Node.js & Express.js. Let’s build something impactful together!<br><br>
