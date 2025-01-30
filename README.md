@@ -1,5 +1,5 @@
 # 💫 About Me:
-**<span style="color: #4CAF50;">Sumit Vikram Singh</span>**<br>
+**<h2 style="color: #4CAF50;">Sumit Vikram Singh</h2>**<br>
 B.Tech in Computer Science & Engineering<br><br>
 
 🤝 **Looking to Collaborate On**<br>
