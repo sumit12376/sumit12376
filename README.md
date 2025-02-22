@@ -4,7 +4,7 @@
 B.Tech in Computer Science & Engineering<br><br>
 
 📄 **Resume**:  
-![Resume]([https://github.com/sumit12376/your-repo/raw/main/resume-image.png](https://drive.google.com/file/d/1VzTyJrP44Ttqp45dGglj651bSXwje63X/view))
+[Resume]([https://github.com/sumit12376/your-repo/raw/main/resume-image.png](https://drive.google.com/file/d/1VzTyJrP44Ttqp45dGglj651bSXwje63X/view))
 
 🤝 **Looking to Collaborate On**<br>
 Innovative frontend projects leveraging React, Redux, and Tailwind CSS, as well as scalable backend solutions with Node.js & Express.js. Let’s build something impactful together!<br><br>
