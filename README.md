@@ -16,7 +16,7 @@ Advanced PostgreSQL (PL/pgSQL) optimizations, deep-dive into React Context API, 
 The MERN stack, React best practices, PostgreSQL database management, Appwrite integration, and efficient Git/GitHub workflows. Always happy to share insights and learn together!<br><br>
 
 🎯 **Fun Fact**<br>
-Beyond coding, I’m fascinated by aviation and defense tech—especially cutting-edge fighter jets like the F-35, F-21, and AMCA. I also dive into geopolitics, exploring global power shifts, defense strategies, and the role of technology in shaping the future. 🚀🌍
+Beyond coding, I’m fascinated by aviation and defense tech especially cutting edge fighter jets like the F-35, F-21, and AMCA. I also dive into geopolitics, exploring global power shifts, defense strategies, and the role of technology in shaping the future. 🚀🌍
 
 ---
 
