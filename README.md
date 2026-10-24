@@ -73,26 +73,6 @@ B.Tech student in Computer Science and Engineering. I build fast, clean web appl
 
 <br>
 
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumit12376&bg_color=0f0c29&color=00f2fe&line=302b63&point=ffffff&area=true&hide_border=true" width="100%" />
-
-</div>
-
-<br>
-
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sumit12376&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" />
-
-</div>
-
-<br>
-
 ## Beyond Code
 
 Aviation and defense technology, especially fifth-generation fighters like the F-35, F-21 and India's AMCA, along with geopolitics, global power shifts and defense strategy.
