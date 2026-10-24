@@ -78,7 +78,7 @@ B.Tech student in Computer Science and Engineering. I build fast, clean web appl
 <div align="center">
 
 <a href="https://linkedin.com/in/sumit-vikram-singh-936310225"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/sumit.thakur_.1"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://instagram.com/casefile.sumit"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <br><br>
 
