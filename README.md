@@ -1,77 +1,50 @@
-# 💫 About Me:
-### **Sumit Vikram Singh**
+<div align="center">
 
-B.Tech in Computer Science & Engineering<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sumit%20Vikram%20Singh&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20PostgreSQL&descAlignY=60&descSize=16" width="100%"/>
 
-🤝 **Looking to Collaborate On**<br>
-Innovative frontend projects leveraging React, Redux, and Tailwind CSS, as well as scalable backend solutions with Node.js & Express.js. Let’s build something impactful together!<br><br>
+</div>
 
-❓ **Seeking Help With**<br>
-Enhancing backend performance, mastering advanced PostgreSQL queries, and deepening my expertise in PL/pgSQL optimization techniques.<br><br>
+## About
 
-📚 **Currently Exploring**<br>
-Advanced PostgreSQL (PL/pgSQL) optimizations, deep-dive into React Context API, and refining strategies for frontend and backend performance tuning.<br><br>
+B.Tech student in Computer Science & Engineering. I build fast, clean web applications with the MERN stack and care about performance on both the frontend and the database.
 
-💡 **Ask Me About**<br>
-The MERN stack, React best practices, PostgreSQL database management, Appwrite integration, and efficient Git/GitHub workflows. Always happy to share insights and learn together!<br><br>
+## Currently
 
-🎯 **Fun Fact**<br>
-Beyond coding, I’m fascinated by aviation and defense tech especially cutting edge fighter jets like the F-35, F-21, and AMCA. I also dive into geopolitics, exploring global power shifts, defense strategies, and the role of technology in shaping the future. 🚀🌍
+- Optimizing PostgreSQL queries and PL/pgSQL functions
+- Going deeper into React Context API
+- Tuning frontend and backend performance
 
----
+## Open To
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sumit.thakur_.1) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-vikram-singh-936310225)
+- Collaborating on React, Redux and Tailwind CSS frontends
+- Building scalable Node.js and Express.js backends
+- Getting help with backend performance and advanced PostgreSQL
 
----
+## Ask Me About
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) 
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+MERN stack, React best practices, PostgreSQL, Appwrite integration, Git and GitHub workflows.
 
----
+## Tech Stack
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sumit12376&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sumit12376&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit12376&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,postgres,mongodb,appwrite,c,java,git,github,postman,vercel,netlify" />
 
----
+## GitHub Stats
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sumit12376&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumit12376&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit12376&theme=tokyonight&hide_border=true&layout=compact" />
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit12376&theme=tokyonight&hide_border=true" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sumit12376&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Beyond Code
 
----
+Aviation and defense technology, especially fifth-generation fighters like the F-35, F-21 and India's AMCA, along with geopolitics and defense strategy.
 
-[![](https://visitcount.itsvg.in/api?id=sumit12376&icon=0&color=0)](https://visitcount.itsvg.in)
+## Connect
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[LinkedIn](https://linkedin.com/in/sumit-vikram-singh-936310225) | [Instagram](https://instagram.com/sumit.thakur_.1)
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>
